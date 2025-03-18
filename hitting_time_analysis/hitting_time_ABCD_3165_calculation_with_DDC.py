@@ -3,11 +3,11 @@
 ###############################################################################
 ### Drew E. Winters, PhD. 
 # 
-# Dynamic diffefrential covaraince (DDC) calculation code
+# Dynamic differential covariance (DDC) calculation code
 ## Origional paper: https://doi.org/10.1073/pnas.2117234119
-## Translated from matlab code: https://github.com/yschen13/DDC
+## Translated from: https://github.com/yschen13/DDC
 ## DDC recovery verification code collab notebook: 
-##   https://colab.research.google.com/drive/1_e4nKuPXJteBdBFcY7ExtKEFtCHAEEX6
+##   https://github.com/drewwint/ABCD_subset_project/blob/main/hitting_time_analysis/DDC_simulation/DDC_simulation_verify_FINAL.ipynb
 #
 ###############################################################################
 
