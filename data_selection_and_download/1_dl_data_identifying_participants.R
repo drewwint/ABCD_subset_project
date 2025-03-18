@@ -8,7 +8,7 @@
 ################################################################################
 
 
-
+# This script is intended to identify participant IDs to download - the identified participants will be used in the downloader script
 
 # Logic for participants selection
   #> We wanted to balance the sample we use for 
